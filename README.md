@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**xdaata/xdaata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Bogdan
 
-Here are some ideas to get you started:
+![](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=00FF66&center=true&vCenter=true&width=450&lines=Computer+Security+Student;Building+backend+services;Exploring+systems+security)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://img.shields.io/badge/FOCUS-BACKEND_%26_SECURITY-111111?style=for-the-badge&labelColor=333333)
+
+---
+
+📫 **Contact:** [Telegram](https://t.me/xdaata) / [Email](mailto:wordrow343@gmail.com)
+
+</div>
